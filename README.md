@@ -72,12 +72,6 @@ ecommerce-website/
 │── database/
 ```
 
-## 🤝 Contribution
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
----
-
 ## 📸 Screenshots (Optional)
 
 Add screenshots of:
